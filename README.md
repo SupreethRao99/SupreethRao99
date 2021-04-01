@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SupreethRao99
 - 👀 I’m interested in Deep Learning, Computer Vision
 - 🌱 I’m currently learning Reinforcement Learning
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/supreeth-rao/
 
 <!---
