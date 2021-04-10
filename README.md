@@ -1,9 +1,17 @@
-- 👋 Hi, I’m @SupreethRao99
-- 👀 I’m interested in Deep Learning, Computer Vision
-- 🌱 I’m currently learning Reinforcement Learning
-- 📫 How to reach me https://www.linkedin.com/in/supreeth-rao/
+# Hello 👋
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-<!---
-SupreethRao99/SupreethRao99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/OS-MacOS-important?style=flat&logo=macOS&&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=PyCharm&&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Libraries-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Libraries-OpenCV-informational?style=flat&logo=opencv&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+
+
+[![Supreeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=SupreethRao99&count_private=true&hide=issues&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
