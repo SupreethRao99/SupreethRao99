@@ -25,12 +25,9 @@ Hi, I'm Supreeth Rao, a passionate novice Data Scientist with a penchant for all
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&color=9566BF)
 
 ## :chart_with_upwards_trend: GitHub Stats
-<a href="https://github.com/SupreethRao99/SupreethRao99">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupreethRao99&count_private=true&hide=issues&show_icons=true&theme=nightowl" alt="Supreeth's GitHub Stats" />
-</a>
-
-<a href="https://github.com/SupreethRao99/SupreethRao99">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SupreethRao99&count_private=true&hide=issues&show_icons=true&theme=nightowl" alt="Supreeth's GitHub Stats" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupreethRao99&count_private=true&hide=issues&show_icons=true&theme=nightowl" alt="Supreeth's GitHub Stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api/?username=SupreethRao99&count_private=true&hide=issues&show_icons=true&theme=nightowl" alt="Supreeth's GitHub Stats " />
+</p>
 
   
