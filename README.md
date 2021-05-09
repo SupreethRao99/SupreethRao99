@@ -27,7 +27,7 @@ Hi, I'm Supreeth Rao, a passionate novice Data Scientist with a penchant for all
 ## :chart_with_upwards_trend: GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupreethRao99&count_private=true&hide=issues&show_icons=true&theme=nightowl" alt="Supreeth's GitHub Stats" /> 
-  <img src="https://github-readme-stats.vercel.app/api/?username=SupreethRao99&count_private=true&hide=issues&show_icons=true&theme=nightowl" alt="Supreeth's GitHub Stats " />
+  <img src="https://github-readme-stats.vercel.app/api/?username=SupreethRao99&count_private=true&hide=issues&show_icons=true&include_all_commits=true&theme=nightowl" alt="Supreeth's GitHub Stats " />
 </p>
 
   
