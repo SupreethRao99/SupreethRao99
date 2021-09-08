@@ -22,6 +22,7 @@ Hi, I'm Supreeth Rao, a passionate Data Scientist with a penchant for all things
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&color=9566BF)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&color=9566BF)
 ![](https://img.shields.io/badge/Libraries-TensorFlow-informational?style=flat&logo=tensorflow&color=9566BF)
+![](https://img.shields.io/badge/Libraries-PyTorch-informational?style=flat&logo=pytorch&color=9566BF)
 ![](https://img.shields.io/badge/Libraries-JAX-informational?style=flat&logo=JAX&color=9566BF)
 ![](https://img.shields.io/badge/Libraries-FLAX-informational?style=flat&logo=FLAX&color=9566BF)
 ![](https://img.shields.io/badge/Libraries-OpenCV-informational?style=flat&logo=opencv&color=9566BF)
