@@ -30,7 +30,7 @@ Hi, I'm Supreeth Rao, a passionate Data Scientist with a penchant for all things
 
 ## :chart_with_upwards_trend: GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupreethRao99&count_private=true&hide=issues&show_icons=true&theme=nightowl&layout=compact&langs_count=8" alt="Supreeth's GitHub Stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupreethRao99&count_private=true&exclude_repo=TensorFlow-in-Practice,Deep-Learning-Coursera,Kaggle&theme=nightowl&layout=compact&langs_count=8" alt="Supreeth's GitHub Stats" /> 
   <img src="https://github-readme-stats.vercel.app/api/?username=SupreethRao99&count_private=true&hide=issues&show_icons=true&include_all_commits=true&theme=nightowl" alt="Supreeth's GitHub Stats " />
 </p>
 
