@@ -8,8 +8,9 @@
 </a>
   
   
-Hi, I'm Supreeth Rao, a passionate Data Scientist with a penchant for all things data from India. I'm currently a student pursuing a B.E in Electrical and Electronics Engineering at MSRIT, Bangalore and a B.Sc in Data Science from IIT-Madras, Chennai. I strive to create software that is intuitive to use and elegant in design. I take great care in the architecture and code quality of the things I build.
+Supreeth is a Machine Learning Engineer at GrapheneAI, his work primarily focuses on Natural Language Processing, Large Language Modelling, Speech and Audio Processing and High Performance Computing. Prior to working at Graphene, Supreeth was a research intern at the Department of Electronics Systems Engineering, Indian Institute of Science (IISc) where he worked on Automatic Speech Recognition and Language Modelling. 
 
+Supreeth Graduated from Ramaiah Institute of Technology in 2023 with a degree in Electrical and Electronics Engineering.
 
 
 ## 🔧 Technologies & Tools
